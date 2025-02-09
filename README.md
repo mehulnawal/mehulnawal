@@ -1,6 +1,12 @@
 ![logo](https://github.com/mehulnawal/mehulnawal/blob/main/LinkedIn%20background%20photo.png)
-<h1 align="center">Hi 👋, I'm Mehul Nawal</h1>
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mehul+Nawal!;" />
+</h1>
+
 <h3 align="center">🚀 A passionate Full stack developer from India</h3>
+
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehulnawal&label=Profile%20views&color=0e75b6&style=flat" alt="mehulnawal" /> </p>
 
@@ -14,13 +20,17 @@
 
 - ⚡ Fun fact **Code, create, collaborate – repeat! 🔄**
 
+<hr/>
  <img width="200px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<hr/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mehul-nawal-2b1492244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehul-nawal" height="30" width="40" /></a>
 <a href="https://instagram.com/mehulnawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehulnawal" height="30" width="40" /></a>
 </p>
+
+<hr/>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" > 
