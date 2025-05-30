@@ -65,10 +65,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehulnawal&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </p>
-
-
----
-
-### 🧩 Featured Projects
-
-✨ Exciting projects coming soon – including interactive JavaScript apps and creative tools built with React!
