@@ -15,7 +15,7 @@
 ### 🧠 About Me
 
 - 🚀 Currently diving deep into advanced **JavaScript** and the **MERN stack** by building interactive, real-world projects.
-- 👨‍💻 Check out my latest work at: [Portfolio](https://portfolio-mehul-nawal.netlify.app/)
+- 👨‍💻 Check out my latest work at: [Portfolio](https://mehulnawal-resume.netlify.app/)
 - 📫 Reach me at: **mehulnawal2904@gmail.com**
 - 📄 [Resume](https://drive.google.com/file/d/1mZUBr6PTyTOsd-AmkN8ZphaSS0YcnEw-/view?usp=sharing)
 - ⚡ Fun fact: **Code, create, collaborate – repeat! 🔄**
