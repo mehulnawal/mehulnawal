@@ -1,57 +1,81 @@
-![logo](https://github.com/mehulnawal/mehulnawal/blob/main/LinkedIn%20background%20photo-MERN%20Stack.png)
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Mehul+Nawal!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+There+👋;I'm+Mehul+Nawal" />
 </h1>
 
-<h3 align="center">🚀 A passionate MERN stack developer from India</h3>
-
-<br/>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mehulnawal&label=Profile%20views&color=0e75b6&style=flat" alt="mehulnawal" /> 
-</p>
-
-### 🧠 About Me
-
-- 🚀 Currently diving deep into advanced **JavaScript** and the **MERN stack** by building interactive, real-world projects.
-- 👨‍💻 Check out my latest work at: [Portfolio](https://mehulnawal-resume.netlify.app/)
-- 📫 Reach me at: **mehulnawal2904@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1mZUBr6PTyTOsd-AmkN8ZphaSS0YcnEw-/view?usp=sharing)
-- ⚡ Fun fact: **Code, create, collaborate – repeat! 🔄**
+<h3 align="center">MERN Stack Developer | Backend-Focused | REST APIs | Scalable Systems</h3>
 
 <p align="center">
-  <img width="200px" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+  <img src="https://komarev.com/ghpvc/?username=mehulnawal&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-### 🤝 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/mehul-nawal-2b1492244/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/mehul-nawal-2b1492244/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mehul%20Nawal-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://instagram.com/mehulnawal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
+  <a href="https://mehulnawal-resume.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge&logo=vercel" />
   </a>
-  <a href="https://github.com/mehulnawal" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="40" height="40"/>
+  <a href="mailto:mehulnawal2904@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+## 🚀 About Me
+
+I am a MERN Stack Developer with hands-on experience in:
+
+- Node.js & Express.js backend development  
+- RESTful API design & integration  
+- JWT Authentication & Role-Based Access Control  
+- MongoDB database design  
+- Building full-stack applications using React  
+
+🔎 Currently open to roles as:
+- Backend Developer  
+- Node.js Developer  
+- Full Stack (MERN) Developer  
+
+⚡ Immediate Joiner  
+📍 Open to Relocation  
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
-  <img src="https://obscureproblemsandgotchas.com/wp-content/uploads/2018/06/bootstrap-stack-e1530246058846.png" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Backend System
+- RESTful APIs for authentication, product management, cart & orders  
+- JWT-based Admin & User role management  
+- Razorpay integration (test mode)  
+- MVC structured scalable backend  
+
+🔗 Repository: https://github.com/mehulnawal/YOUR_REPO_LINK  
+
+---
+
+### 📦 Inventory Management System
+- React + Firebase  
+- Real-time stock tracking  
+- Role-based data handling  
+
+🔗 Live Demo: https://inventory-tracking-mehulnawal.netlify.app/  
+
+---
+
+📫 Reach me at: **mehulnawal2904@gmail.com**
