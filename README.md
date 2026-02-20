@@ -65,7 +65,7 @@ I am a MERN Stack Developer with hands-on experience in:
 - Razorpay integration (test mode)  
 - MVC structured scalable backend  
 
-🔗 Repository: https://github.com/mehulnawal/YOUR_REPO_LINK  
+🔗 Repository: https://github.com/mehulnawal/adminPanel
 
 ---
 
